@@ -69,7 +69,11 @@ Select Ordernumber, Item20 as Product
 from BasketSales
 ) as X
 
------ 
+
+---- Viewing temp table
+Select top 1 * from #products
+
+----- identifying null values /rows
 Select * from #products where product is not NULL -- count = 29,363
 Select * from #products where product is  NULL -- count = 120,657
 --- Deleting null values/rows
@@ -90,8 +94,7 @@ group by Ordernumber
 order by count (Product) DESC
 
 ---- Basket analysis for 2 products 
-Select top 1 * from #Products
-
+  
 SELECT
 PRODUCT_1,
 PRODUCT_2,
