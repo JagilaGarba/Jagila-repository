@@ -1,0 +1,9 @@
+Recommendations are provided from research on Nigerian economy, exploration and forecasting performed on the Nigerian inflation data:
+
+•	Although there are research institutes in Nigeria, there needs to be focus and research on benefits that have not been taken full advantage of such as African Growth and Opportunity Act. 
+•	There have been various policies implemented in the past, but due to new government some of these policies have been neglected, these policies need to be reviewed especially if they were aiding the reduction of food imports.  
+•	Although monoploy of import products are beneficial to the economy but will suggest a time limit on these imports and during the assigned time limit, there should be research on how to improve the country’s production of these products like the example of how Promasidor factory collaborated with Ekiti state government to revive the Ikun Dairy Farm. 
+•	More funding is required to improve agricultural productivity in the nation. An increase in productivity will lead to increase in food supply which will improve and meet food demand. More collaboration of companies and different state government to support the improvement of agricultural productivity.
+•	Better transport system, especially for agriculture products to be transported to different locations. This will enable better and faster circulation of food commodity, therefore an increase in supply. 
+•	Encourage consumers to purchase nigerian produced food commodity as this will encourage farmers and decrease the neglect of agricultural production from farmers. 
+•	Using the predicted inflation values to help enlighten the economy of how to prepare for food inflation in the coming season, for example subsidy can be applied to agricultural inputs (such as fertilizers) or certain food products therefore reduce food prices. 
