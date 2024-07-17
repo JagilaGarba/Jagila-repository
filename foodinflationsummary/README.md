@@ -1,3 +1,6 @@
-This data was gotten from Kaggle. 
+This data was gotten from Kaggle. The data consists of over 40000 rows and 8 columns. The data describes various countries food price inflation index also providing the open, close, high and low index of each month from 2007 to 2023.  
+
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/b770ea1e-46b7-4166-b9ea-c26441ae258a">
+
 This project started by performing data cleaning then exploratory data analysis, this helped the selection of time series models for forecasting. This project involved using libraries such as Matplotlib, Pandas, Seaborn, SkLearn, Statsmodels. Prior to Model building, trend, seasonality and stationarity was analysed by decomposing the inflation index attribute,plotting partial and autocorrelation graphs also performing stationarity tests. This project was able to compare various ARIMA models,
 Naïve method, Simple moving averages and Exponential smoothing. At the end of this project, the naïve method provided the base data point for the forecast and 12 moving averages provided the best forecast to fit the test data split. Therefore the 12 moving average model was implemented to forecast for the next 12 months.
