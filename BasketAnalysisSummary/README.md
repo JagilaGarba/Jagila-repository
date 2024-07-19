@@ -1,4 +1,5 @@
 Dataset 
+
 This data was sourced from Kaggle.  The data describes customers purchase history in a grocery store. The data was downloaded in a csv format. It consists of 7,501 rows and 20 columns. Excel and SQL were used to answer some questions. 
 
   <img width="920" alt="image" src="https://github.com/user-attachments/assets/5afc10f9-3067-45f1-8090-5f4834930f79">
