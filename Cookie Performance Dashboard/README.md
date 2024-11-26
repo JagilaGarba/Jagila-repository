@@ -32,5 +32,7 @@ After performing the above, utilising the format function to provide the desired
 
 Clean data formatted into a table
 
+After data was cleaned and formatted into a table, this enabled pivot table creation and the performance dashboard. 
+
 
 
